@@ -4,6 +4,7 @@ Universidad Distrital Francisco José de Caldas
 Proyecto Curricular de Ingeniería de Sistemas
 
 **Asignatura:** Ciencias de la Computación III 
+
 **Profesor:** Helio Henry Ramírez Arévalo
 
 ---
