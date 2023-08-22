@@ -9,8 +9,12 @@ Pila<T>::Pila() {
 }
 
 template<class T>
-Pila<T>::~Pila() {
-	
+Pila<T>::~Pila() {	
+	while(tail != head) {
+		tail = tail -> previous;
+		delete tail -> next;
+	}
+	delete head;
 }
 
 template<class T>
