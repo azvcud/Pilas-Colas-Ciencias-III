@@ -72,6 +72,7 @@ int main(int argc, char *argv[])
 						cout<<"  Opcion invalida.\n";
 						continue;
 					}
+					tiempoTotal-=listaTareas->buscar(aEliminar-1).tiempo;
 					listaTareas->borrar(aEliminar-1);
 				}
 			}
