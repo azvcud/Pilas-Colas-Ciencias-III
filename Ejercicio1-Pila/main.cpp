@@ -53,4 +53,3 @@ void equilibrarSimbolos(std::string cadena) {
 	
 	cout<<"Sintáxis correcta."<<endl;
 }
-

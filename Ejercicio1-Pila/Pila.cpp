@@ -80,10 +80,3 @@ std::string Pila<T>::toString() {
 	
 	return text;
 }
-
-
-
-
-
-
-
